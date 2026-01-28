@@ -14,3 +14,13 @@ The focus is on analyzing employee data such as headcount, salaries, and departm
 
 ## 🎯 Purpose
 This project demonstrates practical SQL skills for reporting, data analysis, and real-world business scenarios.
+
+## 🧠 SQL Concepts Covered
+
+- Basic SELECT queries
+- Aggregations with GROUP BY and HAVING
+- Subqueries and correlated subqueries
+- JOIN-based reporting queries
+- Data quality analysis and orphan record detection
+
+Each SQL script is structured to reflect real-world reporting and analysis use cases commonly encountered in HR and enterprise systems.
